@@ -1,0 +1,10 @@
+C:\Users\jakov\OneDrive\Documents\PROGRAMIRANJE folder\FlappyBird by Slying\FlappyBird by Slying\bin\Release\FlappyBird by Slying.exe.config
+C:\Users\jakov\OneDrive\Documents\PROGRAMIRANJE folder\FlappyBird by Slying\FlappyBird by Slying\bin\Release\FlappyBird by Slying.exe
+C:\Users\jakov\OneDrive\Documents\PROGRAMIRANJE folder\FlappyBird by Slying\FlappyBird by Slying\bin\Release\FlappyBird by Slying.pdb
+C:\Users\jakov\OneDrive\Documents\PROGRAMIRANJE folder\FlappyBird by Slying\FlappyBird by Slying\obj\Release\FlappyBird by Slying.csproj.AssemblyReference.cache
+C:\Users\jakov\OneDrive\Documents\PROGRAMIRANJE folder\FlappyBird by Slying\FlappyBird by Slying\obj\Release\Flappy_Bird_by_slying.Form1.resources
+C:\Users\jakov\OneDrive\Documents\PROGRAMIRANJE folder\FlappyBird by Slying\FlappyBird by Slying\obj\Release\FlappyBird_by_Slying.Properties.Resources.resources
+C:\Users\jakov\OneDrive\Documents\PROGRAMIRANJE folder\FlappyBird by Slying\FlappyBird by Slying\obj\Release\FlappyBird by Slying.csproj.GenerateResource.cache
+C:\Users\jakov\OneDrive\Documents\PROGRAMIRANJE folder\FlappyBird by Slying\FlappyBird by Slying\obj\Release\FlappyBird by Slying.csproj.CoreCompileInputs.cache
+C:\Users\jakov\OneDrive\Documents\PROGRAMIRANJE folder\FlappyBird by Slying\FlappyBird by Slying\obj\Release\FlappyBird by Slying.exe
+C:\Users\jakov\OneDrive\Documents\PROGRAMIRANJE folder\FlappyBird by Slying\FlappyBird by Slying\obj\Release\FlappyBird by Slying.pdb
